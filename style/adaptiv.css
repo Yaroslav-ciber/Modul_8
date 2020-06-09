@@ -29,21 +29,17 @@
 @media (max-width: 768px) {
     .meet_partner {
         padding: 40px 0;
-    }
-    
+    }    
     .container {
         max-width: 748px;
     }
-
     .heder_nav {
         margin: 0 45px;
     }
-
     .partner_item {
         flex-basis: 236px;
         margin-right: 20px;
     }
-
     .partner_item:not(:nth-last-child(-n+2)) {
         margin-bottom: 60px;
     }
